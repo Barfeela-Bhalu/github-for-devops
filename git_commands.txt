@@ -7,3 +7,7 @@ git rm --cached <filename>
 git commit -m "<message>"
 
 git restore <filename>
+
+git push origin <branch name>
+
+git clone <link>
