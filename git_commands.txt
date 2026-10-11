@@ -1,0 +1,9 @@
+git init
+
+git add <filename>
+
+git rm --cached <filename>
+
+git commit -m "<message>"
+
+git restore <filename>
